@@ -1,0 +1,7 @@
+os
+psutil
+hashlib
+requests
+json
+tkinter 
+time
